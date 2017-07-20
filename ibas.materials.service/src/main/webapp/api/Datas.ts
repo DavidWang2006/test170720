@@ -28,3 +28,7 @@ export const BO_CODE_MATERIALINVENTORY: string = "CC_MM_MATERIALINVENTORY";
 export const BO_CODE_MATERIALJOURNAL: string = "CC_MM_MATERIALJOURNAL";
 /** 业务对象编码-仓库 */
 export const BO_CODE_WAREHOUSE: string = "CC_MM_WAREHOUSE";
+
+
+export enum emItemType {}
+export enum emDirection {}
