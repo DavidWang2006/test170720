@@ -1,0 +1,9 @@
+[
+  {
+    "Id": "${ProjectId}",
+    "Name": "Materials",
+    "Category": "",
+    "Address": ".../",
+    "Repository": "http://localhost:8080/materials/services/rest/data"
+  }
+]
